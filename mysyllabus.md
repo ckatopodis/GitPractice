@@ -1,7 +1,6 @@
 #American Lit
 
-##Reading List##
+##Reading List
 
 **Week 1**
-
 Jacobs, Harriet. *Incidents*
